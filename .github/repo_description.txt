@@ -1,0 +1,1 @@
+AI Translator and Speech Studio - A Streamlit capstone app that translates text using Google Gemini API, converts translated text to speech using gTTS, supports PDF/TXT/CSV/Excel uploads, and provides downloadable MP3 output.
