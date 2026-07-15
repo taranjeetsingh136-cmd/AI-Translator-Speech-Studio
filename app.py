@@ -140,7 +140,7 @@ with st.sidebar:
     st.markdown(
         """
         **Steps**
-        1. Add your Gemini API key to `.env`.
+        1. Ensure your Gemini API key is configured before using the app.
         2. Enter text or upload a supported file.
         3. Choose a target language.
         4. Click **Translate and Generate Speech**.
