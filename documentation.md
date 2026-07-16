@@ -8,6 +8,11 @@
 - Translation Engine: Google Gemini API
 - Text-to-Speech Engine: gTTS
 
+## Project Links
+
+- GitHub Repository: [AI Translator and Speech Studio](https://github.com/taranjeetsingh136-cmd/AI-Translator-Speech-Studio)
+- Live Streamlit App: [AI Translator and Speech Studio](https://ai-translator-speech-studio.streamlit.app)
+
 ## Problem Statement
 
 The objective of this project is to build a user-friendly web application that allows users to translate text into multiple languages and convert the translated text into downloadable speech output. The system supports both direct text input and uploaded files in PDF, TXT, CSV, XLSX, and XLS formats.
@@ -76,7 +81,7 @@ The objective of this project is to build a user-friendly web application that a
 
 ## Deployment
 
-The final application is deployed and is hosted using Streamlit Community Cloud.
+The final application is deployed and can be hosted using Streamlit Community Cloud.
 
 ### Deployment Platform
 

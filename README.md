@@ -1,6 +1,13 @@
 # AI Translator and Speech Studio
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-translator-speech-studio.streamlit.app)
+
 A Streamlit capstone project for multilingual text translation and speech generation. The application accepts typed text or uploaded PDF, TXT, CSV, XLSX, and XLS files, translates the content using Google Gemini API, converts the translated output into speech using gTTS, and allows users to download both translated text and MP3 audio.
+
+## Project Links
+
+- GitHub Repository: [AI Translator and Speech Studio](https://github.com/taranjeetsingh136-cmd/AI-Translator-Speech-Studio)
+- Live Streamlit App: [AI Translator and Speech Studio](https://ai-translator-speech-studio.streamlit.app)
 
 ## Project Overview
 
